@@ -1,0 +1,11 @@
+C:\Users\matheus.bpaulino\source\repos\Atv1\Atv1\bin\Debug\Atv1.exe.config
+C:\Users\matheus.bpaulino\source\repos\Atv1\Atv1\bin\Debug\Atv1.exe
+C:\Users\matheus.bpaulino\source\repos\Atv1\Atv1\bin\Debug\Atv1.pdb
+C:\Users\matheus.bpaulino\source\repos\Atv1\Atv1\obj\Debug\Atv1.csproj.AssemblyReference.cache
+C:\Users\matheus.bpaulino\source\repos\Atv1\Atv1\obj\Debug\Atv1.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.bpaulino\source\repos\Atv1\Atv1\obj\Debug\Atv1.Form1.resources
+C:\Users\matheus.bpaulino\source\repos\Atv1\Atv1\obj\Debug\Atv1.Properties.Resources.resources
+C:\Users\matheus.bpaulino\source\repos\Atv1\Atv1\obj\Debug\Atv1.csproj.GenerateResource.cache
+C:\Users\matheus.bpaulino\source\repos\Atv1\Atv1\obj\Debug\Atv1.csproj.CoreCompileInputs.cache
+C:\Users\matheus.bpaulino\source\repos\Atv1\Atv1\obj\Debug\Atv1.exe
+C:\Users\matheus.bpaulino\source\repos\Atv1\Atv1\obj\Debug\Atv1.pdb
